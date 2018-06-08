@@ -1,1 +1,3 @@
-module.exports = require('./lib/subscribe');
+import subscribeReact from './lib/subscribe';
+
+export default subscribeReact;
